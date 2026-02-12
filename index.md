@@ -4,6 +4,12 @@ title: Home
 nav_order: 0
 ---
 
+<div style="width: 100%; margin-bottom: 30px;">
+    <img src="{{ site.baseurl }}/assets/images/banner.png" 
+         alt="Introduction to Plant Bioinformatics Banner" 
+         style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</div>
+
 # Introduction to Plant Bioinformatics
 
 # Course Description
