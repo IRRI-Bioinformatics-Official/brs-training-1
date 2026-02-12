@@ -10,8 +10,6 @@ nav_order: 0
          style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 </div>
 
-# Introduction to Plant Bioinformatics
-
 # Course Description
 
 Modern plant science is increasingly driven by massive genomic datasets. To bridge the gap between field observations and molecular understanding, this course provides a comprehensive foundation for researchers and students looking to master the digital tools of the trade.
