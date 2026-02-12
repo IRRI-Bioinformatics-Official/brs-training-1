@@ -4,7 +4,7 @@ title: 3. AI
 parent: Modules
 nav_order: 3
 has_children: true
-permalink: /docs/ai
+permalink: /docs/03-ai
 ---
 
 # Module 3: Artificial Intelligence
