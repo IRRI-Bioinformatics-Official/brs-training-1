@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Announcements
-nav_order: 6  # Adjust this number based on where you want it in the list
+nav_order: 5  # Adjust this number based on where you want it in the list
 permalink: /announcements/
 ---
 
