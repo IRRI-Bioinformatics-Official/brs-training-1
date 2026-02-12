@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 2. Galaxy
+parent: Modules
 nav_order: 2
 ---
 
