@@ -1,0 +1,11 @@
+title: BRS Training 1
+description: Introduction
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light # options: light, dark, fs (fs = full width)
+
+# This enables the "Coursera-style" search bar
+search_enabled: true
+
+# This creates the navigation hierarchy
+aux_links:
+  "GitHub Repo": "https://github.com/IRRI-Bioinformatics-Official/brs-training-1"
