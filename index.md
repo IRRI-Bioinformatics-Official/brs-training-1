@@ -4,8 +4,7 @@ title: Home
 nav_order: 0
 ---
 
-# Bioinformatics Course Overview
-
+# Introduction to Plant Bioinformatics
 Welcome to the course! Select a module from the sidebar to begin.
 
 ## Course Modules
