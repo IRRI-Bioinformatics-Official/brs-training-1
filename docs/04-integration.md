@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 4. Integration
+parent: Modules
 nav_order: 4
 ---
 
