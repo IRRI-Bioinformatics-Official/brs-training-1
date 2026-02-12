@@ -10,12 +10,4 @@ search_enabled: true
 aux_links:
   "GitHub Repo": "https://github.com/IRRI-Bioinformatics-Official/intro-plant-bioinformatics"
 
-footer_content: >
-  <p>In partnership with:</p>
-  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="{{ '/assets/images/irri.png' | relative_url }}" alt="Institution 1" style="height: 50px;">
-    <img src="{{ '/assets/images/cimmyt.png' | relative_url }}" alt="Institution 2" style="height: 50px;">
-    <img src="{{ '/assets/images/cgiar.jpeg' | relative_url }}" alt="Institution 3" style="height: 50px;">
-    <img src="{{ '/assets/images/ensembl.png' | relative_url }}" alt="Institution 3" style="height: 50px;">
-  </div>
-  <p>&copy; 2026 IRRI Bioinformatics</p>
+footer_content: "© 2026 IRRI Bioinformatics Training"
