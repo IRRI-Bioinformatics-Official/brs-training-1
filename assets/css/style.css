@@ -1,0 +1,9 @@
+---
+---
+
+// 1. Define your "Plant Bioinformatics" Green
+$link-color: #166936; // A standard GitHub/Tech green
+// $link-color: #91c846; // Alternative: A brighter "Leaf" green
+
+// 2. Import the actual theme
+@import "just-the-docs";
