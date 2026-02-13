@@ -5,7 +5,7 @@ nav_order: 5  # Adjust this number based on where you want it in the list
 permalink: /announcements/
 ---
 
-# Course Announcements
+# Announcements
 Stay updated with the latest news, schedule changes, and resource releases.
 
 ---
