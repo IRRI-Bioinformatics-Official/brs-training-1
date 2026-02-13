@@ -5,7 +5,7 @@ nav_order: 3
 permalink: /schedule/
 ---
 
-# Training Schedule
+# Schedule
 
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
   <thead>
