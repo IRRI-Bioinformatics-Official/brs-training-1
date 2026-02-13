@@ -22,9 +22,6 @@ Modern plant bioinformatics is computationally intensive, but because this cours
 
 ## Connectivity & Software
 
-* **Internet Stability:** A stable connection is the most critical requirement.
-    * *Minimum:* 5 Mbps
-    * *Recommended:* 20+ Mbps (for smooth genomic track rendering).
 * **Web Browser:** **Google Chrome** or **Mozilla Firefox** (Latest versions).
     * *Note:* Avoid using Safari or Internet Explorer/Edge, as they can experience compatibility issues with specific Galaxy tool wrappers.
 * **Operating System:** Windows 10/11, macOS (Ventura+), or any modern Linux distribution.
@@ -36,7 +33,6 @@ Bioinformatics workflows often require "multi-tasking" across several high-resou
 1.  **Ensembl Plants** running interactive genome browser tracks.
 2.  **Galaxy** performing data integration in another tab.
 3.  **AI Assistants** (Gemini/ChatGPT) providing coding or interpretation support.
-4.  **Local Visualization** software (like IGV or MEGA) running in the background.
 
 Machines with only 8GB of RAM may experience significant "lag" or browser crashes when handling these concurrent tasks.
 
