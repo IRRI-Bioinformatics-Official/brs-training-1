@@ -1,5 +1,5 @@
-title: Intro to Plant Bioinformatics
-description: Introduction to Plant Bioinformatics
+title: Intro to Plant Genome Bioinformatics
+description: Introduction to Plant Genome Bioinformatics
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light # options: light, dark, fs (fs = full width)
 
@@ -10,4 +10,4 @@ search_enabled: true
 aux_links:
   "GitHub Repo": "https://github.com/IRRI-Bioinformatics-Official/intro-plant-bioinformatics"
 
-footer_content: "© 2026 IRRI Bioinformatics Training"
+footer_content: "© 2026 IRRI Bioinformatics"
