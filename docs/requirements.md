@@ -2,7 +2,7 @@
 layout: default
 title: Computing Requirements
 nav_order: 4  
-permalink: /software/
+permalink: /requirements/
 ---
 
 # Laptop Requirements
