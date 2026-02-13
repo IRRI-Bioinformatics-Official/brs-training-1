@@ -5,7 +5,7 @@ nav_order: 4
 permalink: /requirements/
 ---
 
-# Laptop Requirements
+# Computing Requirements
 
 Modern plant bioinformatics is computationally intensive, but because this course utilizes cloud-based platforms like **Galaxy** and **Ensembl**, the heavy lifting is handled by remote servers. However, a capable local machine is still required to manage multiple browser tabs, data visualization tools, and AI assistants simultaneously.
 
