@@ -10,8 +10,8 @@ The following experts will be facilitating the Plant Bioinformatics training.
 
 | Name | Title | Affiliation |
 | :--- | :--- | :--- |
-| **Ramil Mauleon** | Senior Scientist I - Bioinformatics & Genomics| IRRI |
 | **Victor Jun Ulat** | Applied Bioinformatics Specialist| CIMMYT |
+| **Ramil Mauleon** | Senior Scientist I - Bioinformatics & Genomics| IRRI |
 | **Jeffrey Detras** | Senior Specialist - Bioinformatics | IRRI |
 | **Lord Hendrix Barboza** | Specialist - Data Management | IRRI |
 | **Frances Nikki Borja** | Junior Specialist - Bioinformatics | IRRI |
